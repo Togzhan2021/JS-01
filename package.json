@@ -1,4 +1,5 @@
 {
+  "homepage": "https://togzhan2021.github.io/JS-01/task#3",
   "name": "task3",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "style-loader": "^3.3.1"
   }
 }
