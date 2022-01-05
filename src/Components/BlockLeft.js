@@ -1,8 +1,6 @@
 import React, { Component } from "react";
-import data from "../data.json";
-import { Form, Tab } from "react-bootstrap";
+import { Form } from "react-bootstrap";
 import "../assets/style.css";
-import S7Logo from "../assets/S7Logo.svg";
 import { Label } from "reactstrap";
 
 export default class BlockLeft extends Component {
