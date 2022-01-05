@@ -1,0 +1,64 @@
+body{
+	background-color: aliceblue;
+}
+
+
+.tab-pane{
+	border: 1px solid gray;
+	width: 100%;
+	height: 250px;
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 3px 3px 6px gray;
+	margin-bottom: 20px;
+}
+
+.logoA{
+	width: 120px;
+	height: 70px;
+}
+
+.link:hover{
+	cursor: pointer;
+}
+
+.left-block{
+	background-color: white;
+	padding: 20px;
+}
+
+.nav{
+	background-color: white;
+	width: 100%;
+	border-radius: 10px;
+}
+
+.nav-item{
+	width: calc(100%/3)
+}
+
+.form-checkbox input{
+	margin-right: 10px;
+}
+
+
+
+
+.table-ticket{
+	width: 100%;
+}
+
+.table-text{
+	color: gray;
+}
+
+.table-info{
+
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.price{
+	justify-content: space-between;
+}
